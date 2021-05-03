@@ -8,9 +8,7 @@ async function graphQLQuery(query, variables = {}) {
     return await fetch(endpoint, {
         method: "POST",
         headers: {
-            // "Content-Type": "application/json",
-            // "Accept": "application/json",
-            // "Authorization": `bearer ${authToken}`
+            "Authorization": `bearer ${authToken}`
         },
         body: JSON.stringify({
             query,
