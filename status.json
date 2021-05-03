@@ -1,6 +1,6 @@
 {
     "status": [
-        { "emoji": "🧟‍♀️", "message": "Player was slain by zombie" },
+        { "emoji": "🧟‍♀️", "message": "%username was slain by zombie" },
         { "emoji": "🚀", "message": "I have a bad feeling about this" },
         { "emoji": "⌚", "message": "Great Scott!" },
         { "emoji": "🚗", "message": "Roads? Where we're going we don't need roads." },
