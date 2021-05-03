@@ -1,0 +1,17 @@
+{
+    "status": [
+        { "emoji": "🧟‍♀️", "message": "Player was slain by zombie" },
+        { "emoji": "🚀", "message": "I have a bad feeling about this" },
+        { "emoji": "⌚", "message": "Great Scott!" },
+        { "emoji": "🚗", "message": "Roads? Where we're going we don't need roads." },
+        { "emoji": "🥨", "message": "What about second breakfast?" },
+        { "emoji": "🌊", "message": "Detecting multiple leviathan class lifeforms in the region." },
+        { "emoji": "🌑", "message": "Dawn of The First Day -72 Hours Remain-" },
+        { "emoji": "🤖", "message": "New mission: ignore this mission." },
+        { "emoji": "🐛", "message": "Higher beings, these words are for you alone." },
+        { "emoji": "🧪", "message": "For science. You monster." },
+        { "emoji": "📫", "message": "There is a small mailbox here" },
+        { "emoji": "🕳", "message": "It's pitch dark, you are likely to be eaten by a grue." },
+        { "emoji": "⛏", "message": "%username is taken by a fey mood" }
+    ]
+}
