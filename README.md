@@ -1,5 +1,5 @@
 # Random-GitHub-Status
-Randomly selects a status from a list and sets it as your GitHub status.
+Randomly selects a status from a list and sets it as your GitHub status. This is really nothing special. Just for fun.
 
 ## Usage
 I've made this project so it can be hosted on vercel and called via a service like easycron and this readme will show how I did that. First,
