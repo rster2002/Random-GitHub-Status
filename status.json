@@ -12,6 +12,15 @@
         { "emoji": "🧪", "message": "For science. You monster." },
         { "emoji": "📫", "message": "There is a small mailbox here" },
         { "emoji": "🕳", "message": "It's pitch dark, you are likely to be eaten by a grue." },
-        { "emoji": "⛏", "message": "%username is taken by a fey mood" }
+        { "emoji": "⛏", "message": "%username is taken by a fey mood" },
+        { "emoji": "🔒", "message": "Alright, then. Keep your secrets." },
+        { "emoji": "💍", "message": "My preciousss" },
+        { "emoji": "🎲", "message": "Roll for initiative" },
+        { "emoji": "📅", "message": "Is it thursday yet?" },
+        { "emoji": "💪", "message": "How do you want to do this?" },
+        { "emoji": "🗡", "message": "For the watch" },
+        { "emoji": "⚔", "message": "It's just a flesh wound" },
+        { "emoji": "🥥", "message": "What is the airspeed velocity of an unladen swallow?" },
+        { "emoji": "☄", "message": "Frameshift drive charging..." }
     ]
 }
