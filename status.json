@@ -7,7 +7,7 @@
         { "emoji": "🥨", "message": "What about second breakfast?" },
         { "emoji": "🌊", "message": "Detecting multiple leviathan class lifeforms in the region." },
         { "emoji": "🌑", "message": "Dawn of The First Day -72 Hours Remain-" },
-        { "emoji": "🤖", "message": "New mission: ignore this mission." },
+        { "emoji": "🔁", "message": "New mission: ignore this mission." },
         { "emoji": "🐛", "message": "Higher beings, these words are for you alone." },
         { "emoji": "🧪", "message": "For science. You monster." },
         { "emoji": "📫", "message": "There is a small mailbox here" },
@@ -16,11 +16,16 @@
         { "emoji": "🔒", "message": "Alright, then. Keep your secrets." },
         { "emoji": "💍", "message": "My preciousss" },
         { "emoji": "🎲", "message": "Roll for initiative" },
-        { "emoji": "📅", "message": "Is it thursday yet?" },
+        { "emoji": "📅", "message": "Is it Thursday yet?" },
         { "emoji": "💪", "message": "How do you want to do this?" },
         { "emoji": "🗡", "message": "For the watch" },
         { "emoji": "⚔", "message": "It's just a flesh wound" },
         { "emoji": "🥥", "message": "What is the airspeed velocity of an unladen swallow?" },
-        { "emoji": "☄", "message": "Frameshift drive charging..." }
+        { "emoji": "☄", "message": "Frameshift drive charging..." },
+        { "emoji": "🟦", "message": "Just a mad man in a blue box" },
+		{ "emoji": "❔", "message": "42" },
+		{ "emoji": "🤖", "message": "I could calculate your chances of survival, but you won't like it" },
+		{ "emoji": "🧊", "message": "I'm a robot not a refrigerator" },
+		{ "emoji": "💔", "message": "Incredible! It's ever worst than I thought it would be." }
     ]
 }
