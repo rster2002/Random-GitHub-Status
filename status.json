@@ -26,6 +26,9 @@
 		{ "emoji": "❔", "message": "42" },
 		{ "emoji": "🤖", "message": "I could calculate your chances of survival, but you won't like it" },
 		{ "emoji": "🧊", "message": "I'm a robot not a refrigerator" },
-		{ "emoji": "💔", "message": "Incredible! It's ever worst than I thought it would be." }
+		{ "emoji": "💔", "message": "Incredible! It's ever worse than I thought it would be." },
+		{ "emoji": "🌌", "message": "16 16 16 16 16" },
+		{ "emoji": "⛰", "message": "You should flip on the Discovery Channel from time to time." },
+		{ "emoji": "🏭", "message": "The factory must grow!" }
     ]
 }
