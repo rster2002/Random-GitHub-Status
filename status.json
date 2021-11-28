@@ -29,6 +29,12 @@
 		{ "emoji": "💔", "message": "Incredible! It's ever worse than I thought it would be." },
 		{ "emoji": "🌌", "message": "16 16 16 16 16" },
 		{ "emoji": "⛰", "message": "You should flip on the Discovery Channel from time to time." },
-		{ "emoji": "🏭", "message": "The factory must grow!" }
+		{ "emoji": "🏭", "message": "The factory must grow!" },
+		{ "emoji": "🦊", "message": "Foxes are dog hardware running cat software." },
+		{ "emoji": "🐿️", "message": "SQUIRREL!" },
+		{ "emoji": "🤖", "message": "Hello there!" },
+		{ "emoji": "🎥", "message": "Good afternoon, good evening and good night." },
+		{ "emoji": "🦀", "message": "Feeling a bit rusty." },
+		{ "emoji": "🗡️", "message": "It's dangerous to go alone! Take this." }
     ]
 }
