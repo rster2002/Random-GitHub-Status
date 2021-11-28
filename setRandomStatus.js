@@ -39,7 +39,7 @@ async function setRandomStatus() {
         }
     `;
 
-    return `Changed the status of ${userInformation.login} to '${emoji} ${message}'`;
+    return `Changed the status of ${userInformation.login} to '${emoji} ${message}' (picked from a list of ${statusList.length} options)`;
 }
 
 module.exports = setRandomStatus;
