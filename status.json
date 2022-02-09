@@ -35,6 +35,10 @@
 		{ "emoji": "🤖", "message": "Hello there!" },
 		{ "emoji": "🎥", "message": "Good afternoon, good evening and good night." },
 		{ "emoji": "🦀", "message": "Feeling a bit rusty." },
-		{ "emoji": "🗡️", "message": "It's dangerous to go alone! Take this." }
+		{ "emoji": "🗡️", "message": "It's dangerous to go alone! Take this." },
+		{ "emoji": "🎭", "message": "You've met with a terrible fate, haven't you?" },
+		{ "emoji": "🥣", "message": "WHY ARE YOU BUYING CLOTHES AT THE SOUP STORE?!" },
+		{ "emoji": "🍝", "message": "More pictures of spaghetti! More pictures of spaghetti!" },
+		{ "emoji": "🔮", "message": "I brought you... a gift." }
     ]
 }
