@@ -39,6 +39,16 @@
 		{ "emoji": "🎭", "message": "You've met with a terrible fate, haven't you?" },
 		{ "emoji": "🥣", "message": "WHY ARE YOU BUYING CLOTHES AT THE SOUP STORE?!" },
 		{ "emoji": "🍝", "message": "More pictures of spaghetti! More pictures of spaghetti!" },
-		{ "emoji": "🔮", "message": "I brought you... a gift." }
+		{ "emoji": "🔮", "message": "I brought you... a gift." },
+		{ "emoji": "🅰️", "message": "113" },
+		{ "emoji": "🍪", "message": "And that's how the cookie crumbles" },
+		{ "emoji": "🎂", "message": "The cake is a lie" },
+		{ "emoji": "🐍", "message": "Do not ride the snake" },
+		{ "emoji": "🛳️", "message": "Welcome aboard captain, all systems online." },
+		{ "emoji": "🟥", "message": "That's right! It goes in the square hole." },
+		{ "emoji": "🎴", "message": "Many Magic: The Gathering players ask the question:" },
+		{ "emoji": "🤷", "message": "Everything happens for no reason" },
+		{ "emoji": "🆔", "message": "Yes I know who you are" },
+		{ "emoji": "💀", "message": "The Part Where He Kills You" }
     ]
 }
