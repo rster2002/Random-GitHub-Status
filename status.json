@@ -49,6 +49,12 @@
 		{ "emoji": "🎴", "message": "Many Magic: The Gathering players ask the question:" },
 		{ "emoji": "🤷", "message": "Everything happens for no reason" },
 		{ "emoji": "🆔", "message": "Yes I know who you are" },
-		{ "emoji": "💀", "message": "The Part Where He Kills You" }
+		{ "emoji": "💀", "message": "The Part Where He Kills You" },
+		{ "emoji": "🚨", "message": "INTRUDER ALERT! RED SPY! IN BASE!" },
+		{ "emoji": "⚰", "message": "Rocks fall, everyone dies" },
+		{ "emoji": "🔻", "message": " You are a worm through time" },
+		{ "emoji": "🕷️", "message": "*Quick Footsteps* *Leap*" },
+		{ "emoji": "💰", "message": "We're rich! We're rich! We're rich! We're rich! We're rich! We're ri..." },
+		{ "emoji": "🙏", "message": "Thank's Snutt, helps a lot" }
     ]
 }
